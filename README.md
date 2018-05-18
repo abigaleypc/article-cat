@@ -4,11 +4,11 @@ This is a good topic for me to learn about front-end development and non-front-e
 
 ## Catalog
 
-* [Introduction](README.md)
 * [前端每日关注](/DailyFocus/README.md)
 * [前端基础](/FEBasic/README.md)
 * [样式](/Style/README.md)
 * [前端性能](/Property/README.md)
+* [前端测试](/Test/README.md)
 * [动画](/Animation/README.md)
 * [Vue相关](/Vue/README.md)
 * [React相关](/React/README.md)
