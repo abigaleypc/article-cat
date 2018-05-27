@@ -1,3 +1,3 @@
 ## 有趣的博客
 
-* [小土刀](http://wdxtub.com/)
+* [勾三股四](http://jiongks.name/)

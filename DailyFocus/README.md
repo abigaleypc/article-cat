@@ -3,7 +3,7 @@
 
 * [淘宝前端团队](http://taobaofed.org/)
 * [腾讯IMWeb前端博客](http://imweb.io/topic/tab/all)
-* [腾讯AlloyTeam-Web开发-前端资讯](http://www.alloyteam.com/webdevelop/web-%E5%89%8D%E7%AB%AF%E8%B5%84%E8%AE%AF/)
+* [腾讯AlloyTeam-Web开发-前端资讯](http://www.alloyteam.com/webdevelop/)
 * [腾讯TGideas](http://tgideas.qq.com/)
 * [腾讯FERD](http://qqfe.org/archives/category/frontend)
 * [京东设计中心](http://jdc.jd.com/)
